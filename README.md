@@ -1,0 +1,1 @@
+# Django Rest Framework class by Michal Hucko
